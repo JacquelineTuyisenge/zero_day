@@ -1,1 +1,1 @@
-This fle is mandatory in this project
+This fle is mandatory in projects
