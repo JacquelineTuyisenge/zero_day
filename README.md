@@ -1,4 +1,1 @@
-# zero_day
-My first readme
-I love beef
-and rice
+This fle is mandatory in this project
